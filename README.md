@@ -14,7 +14,7 @@ Authenticated encryption with associated data (AEAD) has become prominent over t
 
 #### High throughput AEAD in IoT applications
 <p>
-  <img src="final_results.png" alt="Image 1" width="100%">
+  <img src="IoT.png" alt="Image 1" width="100%">
 </p>
 
 Due to Industry 4.0, SMEs are increasingly adopting IoT systems for efficient management, but the high cost of full IoT infrastructure poses a challenge. A cost-effective alternative is the pay-as-you-use IoT service model, akin to cloud computing. However, data privacy concerns arise, as sensitive IoT data could give competitors an edge if leaked. To address this, IoT solutions employing AEAD (Authenticated Encryption with Associated Data) can secure data, allowing SMEs to encrypt sensor data before transmission. Edge computing on IoT gateways, accelerated by GPUs, can handle decryption and real-time responses efficiently. Alternatively, encrypted data can be sent to cloud servers for analysis, with high-throughput AEAD decryption ensuring smooth operations. SMEs can also choose to store ciphertext on the cloud and analyze data locally, balancing cost and security. This system provides a secure, cost-effective solution for IoT integration in manufacturing. GPU acceleration aids in speeding up AEAD computation, essential for real-time response in IoT gateways and high-throughput decryption on cloud servers, as illustrated in Figure 1. `This research aimed to balance cost and security, making IoT adoption more feasible for SMEs.`
