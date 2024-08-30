@@ -7,5 +7,5 @@ Each AEAD consist of 3 different folders:
 2. Coalesced folder consist of coalesced memory access technique.
 3. Concurrent folder consist of concurent kernel technique.
 
-This is the code from the paper [High throughput acceleration of NIST lightweight authenticated encryption schemes on GPU platform]([URL](https://link.springer.com/article/10.1007/s10586-024-04463-x))
+This is the code from the paper "High throughput acceleration of NIST lightweight authenticated encryption schemes on GPU platform", available at (https://link.springer.com/article/10.1007/s10586-024-04463-x)
 
